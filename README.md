@@ -19,7 +19,7 @@ R studio
 ## Release History
 
 * 1.0.0
-    * first commit
+    * first
     * 실습 완료
 
 ## Meta
