@@ -4,17 +4,20 @@
 ![](readme-img/header1.png)
 ![](readme-img/header2.png)
 
-## Installation
+## 수행기간
+* 2019.11.14.~2019.11.21. (약7일)
 
--
 
-## Usage example
+## 주요 기능
+* 전북 익산시에서 약국을 개업한다고 전제했을 때, 공공데이터를 사용하여 사업 현황을 조사하고 어디에 개업할지 분석함
 
-R언어와 공공데이터를 이용한 사업 현황 분석
 
 ## Development setup
+* 빅데이터 분석을 위해 R언어 사용
+    * 막대그래프, 트리맵
+* 공공데이터 포털에서 익산시 약국현황과 인구통계자료 수집
+    * 수집한 자료 전처리 - 영업상태/읍면제외 등 필터링
 
-R studio
 
 ## Release History
 
@@ -22,16 +25,7 @@ R studio
     * first
     * 실습 완료
 
-## Meta
 
-김준혁 – wnsgur1198@naver.com
+## Contact
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
+김준혁 – kimjunhyeok.it@gmail.com
